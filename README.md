@@ -9,7 +9,7 @@
       Please feel free to contact me at the email address below to collab. All ideas and inquiries welcome!
 
 - 📫  How to reach me: 
-      email - fedej44@icloud.com
+      email - apps.jhf@gmail.com
       twitter - @AppsJhf
 
 <!---

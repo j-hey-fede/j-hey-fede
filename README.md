@@ -1,4 +1,4 @@
-- 👋  Hi, I’m @j-hey-fede (jhey or jacquelyn)
+- 👋  Hi, I’m @j-hey-fede (jac, jhey or jacquelyn)
 
 - 👀  I’m interested in mobile app development including native iOS and Swift, native Android with Java and kotlin,
       as well as cross-platform development with Flutter and React Native. I love building full-stack applications.
@@ -10,7 +10,7 @@
 
 - 📫  How to reach me: 
       email - apps.jhf@gmail.com
-      twitter - @AppsJhf
+      twitter - @jacTheDev
 
 <!---
 j-hey-fede/j-hey-fede is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
